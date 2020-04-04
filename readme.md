@@ -10,3 +10,5 @@ Game to beat the clock by typing random words
 - Implement timer
 - Add certain amount of time after word is typed based on difficulty
 - Store difficulty setting in local storage
+
+##curso de traversy media udemy
